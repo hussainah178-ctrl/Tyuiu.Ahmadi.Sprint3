@@ -5,7 +5,7 @@ namespace Tyuiu.Ahmadi.Sprint3.Task0.V28.Lib
 {
     public class DataService : ISprint3Task0V28
     {
-        public double GetMultiplySeries(double x)
+        public double GetMultiplySeries(double x) 
         {
             double p = 1;
             for (int i = 1; i <= 17; i++)
